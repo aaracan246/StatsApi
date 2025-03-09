@@ -559,3 +559,13 @@ D:\GodotProjects\Proyects\StatsApi\TodoApi\obj\Release\net8.0\refint\TodoApi.dll
 D:\GodotProjects\Proyects\StatsApi\TodoApi\obj\Release\net8.0\TodoApi.pdb
 D:\GodotProjects\Proyects\StatsApi\TodoApi\obj\Release\net8.0\TodoApi.genruntimeconfig.cache
 D:\GodotProjects\Proyects\StatsApi\TodoApi\obj\Release\net8.0\ref\TodoApi.dll
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\web.config
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\appsettings.Development.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\appsettings.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\TodoApi.deps.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\TodoApi.runtimeconfig.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\out\web.config
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\out\appsettings.Development.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\out\appsettings.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\out\TodoApi.deps.json
+D:\GodotProjects\Proyects\StatsApi\TodoApi\bin\Release\net8.0\out\out\out\TodoApi.runtimeconfig.json
